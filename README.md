@@ -1,9 +1,10 @@
 # Please Continue
 
-Please Continue is an independent, community-maintained continuation derived
-from [Continue](https://github.com/continuedev/continue), the open-source coding
-assistant for editors and the command line. Continue was created by co-founders
-Ty Dunn and Nate Sesti.
+Please Continue is an independent, Continue-derived open developer assistant.
+
+It is derived from [Continue](https://github.com/continuedev/continue), the
+open-source coding assistant for editors and the command line. Continue was
+created by co-founders Ty Dunn and Nate Sesti.
 
 This is a standalone repository with new project history, not a repository in
 Continue's GitHub fork network. Its initial source preserves the applicable
